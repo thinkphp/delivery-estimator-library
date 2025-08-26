@@ -2,7 +2,6 @@
 
 A simple PHP function to generate estimated delivery date ranges for e-commerce applications, with support for business days calculation.
 
-
 ## Samples
 
 - https://ideone.com/FgqdO0
